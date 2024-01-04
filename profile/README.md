@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+We are Outsoar, an agency based in the Philippines. We focus on building a better team to produce scallable and maintainable softwares. 
+
+Building **Better**, *Faster* and <ins>Together</ins>.
+
+Learn more about us:
+
+- [website](https://outsoar.ph)
+- [playbook](https://playbook.outsoar.ph)
+
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +20,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
