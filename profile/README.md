@@ -8,5 +8,5 @@ Building **Better**, *Faster*, and <ins>Together</ins>.
 
 Learn more about us:
 
-- 🌐 [Website](https://outsoar.ph)
-- 📚 [Playbook](https://playbook.outsoar.ph)
+🌐 [Website](https://outsoar.ph)<br/>
+📚 [Playbook](https://playbook.outsoar.ph)<br/>
