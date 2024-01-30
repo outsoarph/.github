@@ -4,10 +4,10 @@ We are Outsoar 🚀, an agency based in the 🥭🇵🇭 San Carlos City, Philip
 
 Building **Better**, *Faster*, and <ins>Together</ins>.
 
-#### Learn more about us
+**Learn more about us**
 
 🌐 [Website](https://outsoar.ph)<br/>
 📚 [Playbook](https://playbook.outsoar.ph)<br/>
 
-#### Theme
-2024: Presence and Duplication
+**Annual Theme**
+2024: _Presence and Replication_
