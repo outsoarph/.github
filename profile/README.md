@@ -10,4 +10,5 @@ Building **Better**, *Faster*, and <ins>Together</ins>.
 📚 [Playbook](https://playbook.outsoar.ph)<br/>
 
 **Annual Theme**
-2024: _Presence and Replication_
+
+- 2024: _Presence and Replication_
