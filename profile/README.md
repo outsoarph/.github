@@ -12,3 +12,4 @@ Building **Better**, *Faster*, and <ins>Together</ins>.
 **Annual Theme**
 - 2023: _Build the Momentum_
 - 2024: _Presence and Replication_
+- 2025 _Elevate_
