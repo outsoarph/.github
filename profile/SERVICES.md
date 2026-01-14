@@ -4,15 +4,15 @@
 mindmap
   root((Services))
     Custom_Development
-      Web_App_Development
+      Web_App_Development{{Web App Development}}
         SaaS_Development
         Enterprise_Web_Applications
         Web_Integrations_&_APIs
-      Mobile_App_Development
+      Mobile_App_Development{{Mobile App Development}}
         Cross-Platform_Apps
         Native_Apps
         Progressive_Web_Apps_(PWAs)
-      AI_Integration
+      AI_Integration{{AI Integration}}
         Chatbots_&_Virtual_Assistants
         Predictive_Analytics
         Natural_Language_Processing_(NLP)
