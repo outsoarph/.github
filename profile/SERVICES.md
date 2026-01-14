@@ -3,20 +3,20 @@
 ```mermaid
 mindmap
   root((Services))
-    Custom_Development(Custom Development)
-      Web_App_Development{{Web App Development}}
+    Custom_Development{{Custom Development}}
+      Web_App_Development(Web App Development)
         SaaS Development
         Enterprise Web Applications
         Web Integrations & APIs
-      Mobile_App_Development{{Mobile App Development}}
+      Mobile_App_Development(Mobile App Development)
         Cross-Platform Apps
         Native Apps
         Progressive Web Apps
-      AI_Integration{{AI Integration}}
+      AI_Integration(AI Integration)
         Chatbots & Virtual_Assistants
         Predictive Analytics
         Natural Language Processing
-    WordPress_Development(WordPress Development)
+    WordPress_Development{{WordPress Development}}
       Website Development
       E-commerce Development
       Website Support & Maintenance
