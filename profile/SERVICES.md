@@ -1,18 +1,19 @@
 ## Services
 
 ```mermaid
-flowchart TD
-    A[Services] --> B[Custom Development]
-    A --> C[WordPress Development]
-    B --> D[Web App Development]
-    B --> E[Mobile App Development]
-    B --> F[AI Integration]
-    C --> G[Website Development]
-    C --> H[E-commerce Development]
-    C --> I[Website Support & Maintenance]  
-    D --> J[SaaS Development]
-    D --> K[Enterprise Web Applications]
-    D --> L[Web Integrations & APIs]
+mindmap
+  root((Services))
+    Custom_Development
+      Web_App_Development
+        SaaS_Development
+        Enterprise_Web_Applications
+        Web_Integrations_&_APIs
+      Mobile_App_Development
+      AI_Integration
+    WordPress_Development
+      Website_Development
+      E-commerce_Development
+      Website_Support_&_Maintenance
 ```
 
 We offer a variety of services intersected by our expertise in Taylor-made Development, WordPress Development, and AI Integration to align with your business goals and growth.
