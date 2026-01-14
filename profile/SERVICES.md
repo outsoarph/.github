@@ -124,7 +124,7 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothly�
 - **Content Management:** Keep your site up-to-date and relevant with expert content support.
 - **Daily Operations Support:** Enjoy peace of mind with regular updates, backups, and security checks.
 
-Upwork Brochure: 
+
 
 | Service Code | Service Name                     | Service Category                  | Service Subcategory        | Tag1                  | Tag2                      | Description                                                                                                      |
 |--------------|----------------------------------|-----------------------------------|---------------------------|-----------------------|---------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -145,3 +145,50 @@ Upwork Brochure:
 | 15           | Payment Gateway Integration      | Web, Mobile & Software Development| Ecommerce Development     | WordPress Development | E-commerce Development    | Secure, seamless payment options integrated for a frictionless checkout experience.                               |
 | 16           | Content Management               | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Keep your site fresh and relevant with expert content updates and management.                                 |
 | 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to keep your website running smoothly and securely.             |
+
+
+Upwork Brochure: 
+
+1. Web Development
+
+Service Category: Web, Mobile & Software Development 
+
+- SaaS Development: Build cloud-first platforms that deliver powerful, always-on software to your customers—anytime, anywhere.
+- Enterprise Web Applications: Transform your operations with robust, custom-built solutions that streamline processes and drive efficiency.
+- Web Integrations & APIs: Supercharge your apps by connecting with third-party services and platforms for seamless workflows and new capabilities.
+
+2. Mobile Development 
+
+Service Category: Web, Mobile & Software Development
+- Cross-Platform Apps: Reach more users with apps that work flawlessly across devices and operating systems.
+- Native Apps: Deliver lightning-fast, feature-rich experiences built specifically for iOS or Android.
+- Progressive Web Apps (PWAs): Combine the best of web and mobile for fast, reliable, and engaging user experiences.
+
+3. AI Apps & Integration
+
+Service Category: Web, Mobile & Software Development
+- Chatbots & Virtual Assistants: Boost customer service and engagement with AI-powered conversations.
+- Predictive Analytics: Make smarter decisions with AI models that spot trends and forecast outcomes.
+- Natural Language Processing (NLP): Create apps that understand and respond to your users—naturally.
+
+4. Website Development
+
+Service Category: Web, Mobile & Software Development
+- Theme Customization: Stand out with themes tailored to your brand and business goals.
+- Theme and Plugin Development: Get custom features and functionality built just for you.
+- Website Optimization: Speed, performance, and search rankings—optimized for results.
+- WordPress Integration: Connect your site with the tools and services you need to grow.
+
+5. E-commerce Development
+
+Service Category: Web, Mobile & Software Development
+- Online Store Setup: Launch your WooCommerce store with everything you need to sell online.
+- Payment Gateway Integration: Offer seamless, secure payment options for your customers.
+
+6. Website Support & Maintenance
+
+Service Category: Web, Mobile & Software Development
+- Content Management: Keep your site up-to-date and relevant with expert content support.
+- Daily Operations Support: Enjoy peace of mind with regular updates, backups, and security checks.
+
+
