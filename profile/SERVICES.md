@@ -18,19 +18,27 @@ upwork:
     - Tailwind CSS
   categories:
     - Web, Mobile & Software Development
+    - IT & Networking
   subcategories:
-    - Blockchain, NFT & Cryptocurrency
-    - Al Apps & Integration
-    - Desktop Application Development
-    - Ecommerce Development
-    - Game Design & Development
-    - Mobile Development
-    - Other - Software Development
-    - Product Management & Scrum
-    - QA Testing
-    - Scripts & Utilities
-    - Web & Mobile Design
-    - Web Development
+    Web, Mobile & Software Development
+      - Blockchain, NFT & Cryptocurrency
+      - Al Apps & Integration
+      - Desktop Application Development
+      - Ecommerce Development
+      - Game Design & Development
+      - Mobile Development
+      - Other - Software Development
+      - Product Management & Scrum
+      - QA Testing
+      - Scripts & Utilities
+      - Web & Mobile Design
+      - Web Development
+    IT & Networking
+      - Database Management & Administration
+      - ERP and CRM Software
+      - Information & Security Compliance
+      - Network & System Administration
+      - DevOps & Solution Architecture
 ---
 
 ## Services
@@ -144,50 +152,34 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothlyâ€
 | 14           | Online Store Setup               | Web, Mobile & Software Development| Ecommerce Development     | WordPress Development | E-commerce Development    | Launch your WooCommerce store with everything you need to sell online, from products to payments.                 |
 | 15           | Payment Gateway Integration      | Web, Mobile & Software Development| Ecommerce Development     | WordPress Development | E-commerce Development    | Secure, seamless payment options integrated for a frictionless checkout experience.                               |
 | 16           | Content Management               | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Keep your site fresh and relevant with expert content updates and management.                                 |
-| 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to keep your website running smoothly and securely.             |
-
+| 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to ensure your site runs smoothly and securely.            |  
 
 ### Upwork Brochure: 
 
 #### Web Development
 
 Service Category: Web, Mobile & Software Development
-1. SaaS: Cloud-first, always-on platforms.
-2. Enterprise Apps: Custom solutions to boost efficiency.
-3. Integrations & APIs: Connect with third-party services for seamless workflows.
+
+We deliver cloud-first SaaS platforms, custom enterprise apps to boost efficiency, and seamless API integrations for powerful workflows.
 
 ##### Mobile Development 
-
 Service Category: Web, Mobile & Software Development
-1. Cross-Platform Apps: Apps for all devices.
-2. Native Apps: Fast, feature-rich for iOS/Android.
-3. PWAs: Web and mobile combined for speed and reliability.
+
+Take your brand mobile with cross-platform apps for every device, lightning-fast native experiences for iOS and Android, and PWAs that blend the best of web and mobile for speed and reliability.
 
 #### AI Apps & Integration
-
 Service Category: Web, Mobile & Software Development
-1. Chatbots: AI-powered conversations.
-2. Predictive Analytics: Smarter decisions with AI.
-3. NLP: Apps that understand users naturally.
+
+Unlock smarter business with AI-powered chatbots, predictive analytics for sharper decisions, and natural language apps that truly understand your users.
 
 #### Web & Mobile Design
-
 Service Category: Web, Mobile & Software Development
-1. Theme Customization: Tailored to your brand.
-2. Theme/Plugin Dev: Custom features.
-3. Optimization: Speed, SEO, performance.
-4. WP Integration: Connect essential tools.
+
+Stand out with custom themes, unique plugins, and blazing-fast, SEO-optimized sites that connect seamlessly to the tools powering your business. Stay ahead with expert content management, regular backups, and robust securityâ€”your digital presence is always on point.
 
 #### E-commerce Development
-
 Service Category: Web, Mobile & Software Development
-1. Store Setup: Launch WooCommerce store.
-2. Payment Integration: Secure, seamless checkout.
 
-#### Website Support & Maintenance
-
-Service Category: Web, Mobile & Software Development
-1. Content Management: Expert updates.
-2. Operations Support: Regular backups, security.
+Sell smarter with WooCommerce store setups and secure, seamless payment integration for a frictionless checkout experience.
 
 
