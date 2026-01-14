@@ -13,6 +13,9 @@ upwork:
     - JavaScript
     - WordPress
     - Flutter
+    - TypeScript
+    - WooCommerce
+    - Tailwind CSS
   categories:
     - Web, Mobile & Software Development
   subcategories:
