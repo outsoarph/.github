@@ -147,48 +147,47 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothly�
 | 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to keep your website running smoothly and securely.             |
 
 
-Upwork Brochure: 
+### Upwork Brochure: 
 
-1. Web Development
-
-Service Category: Web, Mobile & Software Development 
-
-- SaaS Development: Build cloud-first platforms that deliver powerful, always-on software to your customers—anytime, anywhere.
-- Enterprise Web Applications: Transform your operations with robust, custom-built solutions that streamline processes and drive efficiency.
-- Web Integrations & APIs: Supercharge your apps by connecting with third-party services and platforms for seamless workflows and new capabilities.
-
-2. Mobile Development 
+#### Web Development
 
 Service Category: Web, Mobile & Software Development
-- Cross-Platform Apps: Reach more users with apps that work flawlessly across devices and operating systems.
-- Native Apps: Deliver lightning-fast, feature-rich experiences built specifically for iOS or Android.
-- Progressive Web Apps (PWAs): Combine the best of web and mobile for fast, reliable, and engaging user experiences.
+1. SaaS: Cloud-first, always-on platforms.
+2. Enterprise Apps: Custom solutions to boost efficiency.
+3. Integrations & APIs: Connect with third-party services for seamless workflows.
 
-3. AI Apps & Integration
-
-Service Category: Web, Mobile & Software Development
-- Chatbots & Virtual Assistants: Boost customer service and engagement with AI-powered conversations.
-- Predictive Analytics: Make smarter decisions with AI models that spot trends and forecast outcomes.
-- Natural Language Processing (NLP): Create apps that understand and respond to your users—naturally.
-
-4. Website Development
+##### Mobile Development 
 
 Service Category: Web, Mobile & Software Development
-- Theme Customization: Stand out with themes tailored to your brand and business goals.
-- Theme and Plugin Development: Get custom features and functionality built just for you.
-- Website Optimization: Speed, performance, and search rankings—optimized for results.
-- WordPress Integration: Connect your site with the tools and services you need to grow.
+1. Cross-Platform Apps: Apps for all devices.
+2. Native Apps: Fast, feature-rich for iOS/Android.
+3. PWAs: Web and mobile combined for speed and reliability.
 
-5. E-commerce Development
-
-Service Category: Web, Mobile & Software Development
-- Online Store Setup: Launch your WooCommerce store with everything you need to sell online.
-- Payment Gateway Integration: Offer seamless, secure payment options for your customers.
-
-6. Website Support & Maintenance
+#### AI Apps & Integration
 
 Service Category: Web, Mobile & Software Development
-- Content Management: Keep your site up-to-date and relevant with expert content support.
-- Daily Operations Support: Enjoy peace of mind with regular updates, backups, and security checks.
+1. Chatbots: AI-powered conversations.
+2. Predictive Analytics: Smarter decisions with AI.
+3. NLP: Apps that understand users naturally.
+
+#### Web & Mobile Design
+
+Service Category: Web, Mobile & Software Development
+1. Theme Customization: Tailored to your brand.
+2. Theme/Plugin Dev: Custom features.
+3. Optimization: Speed, SEO, performance.
+4. WP Integration: Connect essential tools.
+
+#### E-commerce Development
+
+Service Category: Web, Mobile & Software Development
+1. Store Setup: Launch WooCommerce store.
+2. Payment Integration: Secure, seamless checkout.
+
+#### Website Support & Maintenance
+
+Service Category: Web, Mobile & Software Development
+1. Content Management: Expert updates.
+2. Operations Support: Regular backups, security.
 
 
