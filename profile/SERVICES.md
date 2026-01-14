@@ -154,31 +154,25 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothlyâ€
 | 16           | Content Management               | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Keep your site fresh and relevant with expert content updates and management.                                 |
 | 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to ensure your site runs smoothly and securely.            |  
 
-### Upwork Brochure: 
+### Web, Mobile & Software Development 
 
 #### Web Development
-
-Service Category: Web, Mobile & Software Development
 
 We deliver cloud-first SaaS platforms, custom enterprise apps to boost efficiency, and seamless API integrations for powerful workflows.
 
 ##### Mobile Development 
-Service Category: Web, Mobile & Software Development
 
 Take your brand mobile with cross-platform apps for every device, lightning-fast native experiences for iOS and Android, and PWAs that blend the best of web and mobile for speed and reliability.
 
 #### AI Apps & Integration
-Service Category: Web, Mobile & Software Development
 
 Unlock smarter business with AI-powered chatbots, predictive analytics for sharper decisions, and natural language apps that truly understand your users.
 
 #### Web & Mobile Design
-Service Category: Web, Mobile & Software Development
 
 Stand out with custom themes, unique plugins, and blazing-fast, SEO-optimized sites that connect seamlessly to the tools powering your business. Stay ahead with expert content management, regular backups, and robust securityâ€”your digital presence is always on point.
 
 #### E-commerce Development
-Service Category: Web, Mobile & Software Development
 
 Sell smarter with WooCommerce store setups and secure, seamless payment integration for a frictionless checkout experience.
 
