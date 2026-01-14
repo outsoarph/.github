@@ -16,12 +16,15 @@ To become the go-to development partner in the Philippines and offshore—buildi
 
 We offer a variety of services intersected by our expertise in Taylor-made Development, WordPress Development, and AI Integration to align with your business goals and growth.
 
-**Custom Development**
+### 🎨 Custom Development
+
+Taylor-made digital solutions built to your specifications, needs, and growth plans.
 - 💻 Web App Development
 - 📱 Mobile App Development
 - 🤖 AI Integration
 
-**WordPress Development**
+### 🌍 WordPress Development
+
 - 🌐 Website Development
 - 🛒 E-commerce Development
 - 🛠️ Website Support & Maintenance
