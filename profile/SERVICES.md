@@ -88,3 +88,41 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothlyâ€
 
 - **Content Management:** Keep your site up-to-date and relevant with expert content support.
 - **Daily Operations Support:** Enjoy peace of mind with regular updates, backups, and security checks.
+
+
+Upwork Brochure: 
+
+<!---
+- Blockchain, NFT & Cryptocurrency
+- Al Apps & Integration
+- Desktop Application Development
+- Ecommerce Development
+- Game Design & Development
+- Mobile Development
+- Other - Software Development
+- Product Management & Scrum
+- QA Testing
+- Scripts & Utilities
+- Web & Mobile Design
+- Web Development
+--->
+
+| Service Code | Service Name                     | Service Category                  | Service Subcategory        | Tag1                  | Tag2                      | Description                                                                                                      |
+|--------------|----------------------------------|-----------------------------------|---------------------------|-----------------------|---------------------------|------------------------------------------------------------------------------------------------------------------|
+| 1            | SaaS Development                 | Web, Mobile & Software Development| Web Development           | Custom Development    | Web Development           | Cloud-first platforms delivering powerful, always-on software to your customersâ€”anytime, anywhere.                |
+| 2            | Enterprise Web Applications      | Web, Mobile & Software Development| Web Development           | Custom Development    | Web Development           | Robust, custom-built web apps that streamline and optimize business processes for large organizations.            |
+| 3            | Web Integrations & APIs          | Web, Mobile & Software Development| Web Development           | Custom Development    | Web Development           | Seamlessly connect your apps with third-party services and platforms for enhanced functionality and workflows.     |
+| 4            | Cross-Platform Apps              | Web, Mobile & Software Development| Mobile Development        | Custom Development    | Mobile Development        | Apps that work flawlessly across devices and operating systems, maximizing your reach and engagement.              |
+| 5            | Native Apps                      | Web, Mobile & Software Development| Mobile Development        | Custom Development    | Mobile Development        | High-performance, feature-rich mobile apps built specifically for iOS or Android.                                 |
+| 6            | Progressive Web Apps (PWAs)      | Web, Mobile & Software Development| Mobile Development        | Custom Development    | Mobile Development        | Fast, reliable, and engaging apps that combine the best of web and mobile experiences.                            |
+| 7            | Chatbots & Virtual Assistants    | Web, Mobile & Software Development| AI Apps & Integration     | Custom Development    | AI Integration            | AI-powered conversational agents that boost customer service and engagement.                                      |
+| 8            | Predictive Analytics             | Web, Mobile & Software Development| AI Apps & Integration     | Custom Development    | AI Integration            | AI models that analyze trends and forecast outcomes, empowering smarter business decisions.                       |
+| 9            | Natural Language Processing (NLP)| Web, Mobile & Software Development| AI Apps & Integration     | Custom Development    | AI Integration            | Apps that understand and respond to users naturally, enhancing interaction and automation.                        |
+| 10           | Theme Customization              | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Development       | Tailored WordPress themes that reflect your brand and business goals.                                             |
+| 11           | Theme and Plugin Development     | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Development       | Custom themes and plugins built from scratch to deliver unique features and functionality.                        |
+| 12           | Website Optimization             | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Development       | Speed, performance, and SEO enhancements to attract and retain more visitors.                                     |
+| 13           | WordPress Integration            | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Development       | Connect your WordPress site with essential tools and services for seamless operations.                            |
+| 14           | Online Store Setup               | Web, Mobile & Software Development| Ecommerce Development     | WordPress Development | E-commerce Development    | Launch your WooCommerce store with everything you need to sell online, from products to payments.                 |
+| 15           | Payment Gateway Integration      | Web, Mobile & Software Development| Ecommerce Development     | WordPress Development | E-commerce Development    | Secure, seamless payment options integrated for a frictionless checkout experience.                               |
+| 16           | Content Management               | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Keep your site fresh and relevant with expert content updates and management.                                 |
+| 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to keep your website running smoothly and securely.             |
