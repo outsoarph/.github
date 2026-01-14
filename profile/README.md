@@ -19,6 +19,20 @@ We equip businesses with worthy, tangible digital solutions—apps, websites, an
 
 To become the go-to development partner in the Philippines and offshore—building digital solutions that outsoar, today and beyond.
 
+## [Services](./profile/SERVICES.md)
+
+We offer a variety of services intersected by our expertise in Taylor-made Development, WordPress Development, and AI Integration to align with your business goals and growth.
+
+CUSTOM DEVELOPMENT
+- Web App Development
+- Mobile App Development
+- AI Integration
+
+WORDPRESS DEVELOPMENT
+- Website Development
+- E-commerce Development
+- Website Support & Maintenance
+
 **Annual Themes:**
 
 - 2023: Momentum 
