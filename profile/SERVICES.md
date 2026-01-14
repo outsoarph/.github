@@ -1,6 +1,17 @@
 ## Services
 
 ```mermaid
+---
+config:
+  layout: tidy-tree
+  theme: base
+  themeVariables:
+    primaryColor: '#ff6f61'
+    edgeLabelBackground: '#ffffff'
+    clusterBkg: '#ffe5e0'
+    clusterBorder: '#ff6f61'
+    fontFamily: 'Arial, sans-serif'
+---
 mindmap
   root((Services))
     Custom_Development{{Custom Development}}
