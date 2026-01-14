@@ -11,11 +11,11 @@ mindmap
       Mobile_App_Development{{Mobile App Development}}
         Cross-Platform Apps
         Native Apps
-        Progressive Web Apps (PWAs)
+        Progressive Web Apps
       AI_Integration{{AI Integration}}
         Chatbots & Virtual_Assistants
         Predictive Analytics
-        Natural Language Processing (NLP)
+        Natural Language Processing
     WordPress_Development(WordPress Development)
       Website Development
       E-commerce Development
