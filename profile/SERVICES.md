@@ -23,9 +23,17 @@ mindmap
         Predictive Analytics
         Natural Language Processing
     WordPress_Development{{WordPress Development}}
-      Website Development
-      E-commerce Development
-      Website Support & Maintenance
+      Website_Development(Website Development)
+        Theme Customization
+        Theme and Plugin Development
+        Website Optimization
+        Wordpress Integration
+      E-commerce_Development(E-commerce Development)
+        Online Store Setup
+        Payment Gateway Integration
+      Website_Support_&_Maintenance(Website Support & Maintenance)
+        Content Management
+        Daily Operations Support
 ```
 
 We offer a variety of services intersected by our expertise in Taylor-made Development, WordPress Development, and AI Integration to align with your business goals and growth.
@@ -63,7 +71,22 @@ Leverage the power of artificial intelligence to enhance your applications, auto
 
 ### 🌍 WordPress Development
 
-- 🌐 Website Development
-- 🛒 E-commerce Development
-- 🛠️ Website Support & Maintenance
+#### 1. 🌐 Website Development
+
+We create stunning, responsive, and SEO-friendly WordPress websites that effectively represent your brand and engage your audience. 
+
+-- **Theme Customization:** Choose from a wide range of themes and customize them to reflect your brand identity and meet your specific needs.
+-- **Them and Plugin Development:** Developing from scratch themes and plugins tailored to your unique requirements and styles
+-- **Website Optimization:** Improve site speed, performance, and search engine rankings to attract and retain visitors.
+-- **Wordpress Integration:** Seamlessly connect your WordPress site with third-party services and tools to enhance functionality and streamline operations.
+
+#### 2. 🛒 E-commerce Development
+-- **Online Store Setup:** Launch your online store with WooCommerce, complete with product listings, payment gateways, and shipping options.
+-- **Payment Gateway Integration:** Securely integrate various payment options to provide a seamless checkout experience for your customers.
+
+#### 3. 🛠️ Website Support & Maintenance
+
+-- **Content Management**. We assist with content updates, additions, and optimizations to keep your site fresh and relevant.
+-- **Daily Operations Support:** Ensure your website runs smoothly with regular updates, backups, and security checks.
+
 
