@@ -3,23 +3,23 @@
 ```mermaid
 mindmap
   root((Services))
-    Custom_Development
+    Custom_Development(Custom Development)
       Web_App_Development{{Web App Development}}
-        SaaS_Development
-        Enterprise_Web_Applications
-        Web_Integrations_&_APIs
+        SaaS Development
+        Enterprise Web Applications
+        Web Integrations & APIs
       Mobile_App_Development{{Mobile App Development}}
-        Cross-Platform_Apps
-        Native_Apps
-        Progressive_Web_Apps_(PWAs)
+        Cross-Platform Apps
+        Native Apps
+        Progressive Web Apps (PWAs)
       AI_Integration{{AI Integration}}
-        Chatbots_&_Virtual_Assistants
-        Predictive_Analytics
-        Natural_Language_Processing_(NLP)
-    WordPress_Development
-      Website_Development
-      E-commerce_Development
-      Website_Support_&_Maintenance
+        Chatbots & Virtual_Assistants
+        Predictive Analytics
+        Natural Language Processing (NLP)
+    WordPress_Development(WordPress Development)
+      Website Development
+      E-commerce Development
+      Website Support & Maintenance
 ```
 
 We offer a variety of services intersected by our expertise in Taylor-made Development, WordPress Development, and AI Integration to align with your business goals and growth.
