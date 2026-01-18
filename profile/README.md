@@ -4,6 +4,12 @@ We are Outsoar 🚀, an agency based in San Carlos City, Philippines 🥭🇵�
 
 Building **Better**, *Faster*, and <ins>Together</ins>.
 
+```mermaid
+flowchart TD
+    A[Better Solutions] --> B[Faster Delivery]
+    B --> C[Together with You]
+```
+
 ### 🎯 Mission
 
 We equip businesses with worthy, tangible digital solutions—apps, websites, and AI integrations—built to align with, support, and sustain their growth.
