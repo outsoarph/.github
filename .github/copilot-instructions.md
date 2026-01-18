@@ -63,5 +63,6 @@ When generating content, consider our three main service areas:
 - 🚀 `Outsoar PH` (primary brand), Outsoar is the name and PH is extra.
 - 🥭🇵🇭 Philippines connection
 - Colors: Amber, Black, Gray, White
+- Dark mode first design
 - Visuals: Use icons/emojis.
 - Always emphasize the "outsoar" concept (exceeding expectations)
