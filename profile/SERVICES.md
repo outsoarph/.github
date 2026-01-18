@@ -133,7 +133,6 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothlyâ€
 - **Daily Operations Support:** Enjoy peace of mind with regular updates, backups, and security checks.
 
 
-
 | Service Code | Service Name                     | Service Category                  | Service Subcategory        | Tag1                  | Tag2                      | Description                                                                                                      |
 |--------------|----------------------------------|-----------------------------------|---------------------------|-----------------------|---------------------------|------------------------------------------------------------------------------------------------------------------|
 | 1            | SaaS Development                 | Web, Mobile & Software Development| Web Development           | Custom Development    | Web Development           | Cloud-first platforms delivering powerful, always-on software to your customersâ€”anytime, anywhere.                |
@@ -153,6 +152,7 @@ Stay ahead, stress-free. We keep your site fresh, secure, and running smoothlyâ€
 | 15           | Payment Gateway Integration      | Web, Mobile & Software Development| Ecommerce Development     | WordPress Development | E-commerce Development    | Secure, seamless payment options integrated for a frictionless checkout experience.                               |
 | 16           | Content Management               | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Keep your site fresh and relevant with expert content updates and management.                                 |
 | 17           | Daily Operations Support         | Web, Mobile & Software Development| Web & Mobile Design       | WordPress Development | Website Support & Maintenance | Regular updates, backups, and security checks to ensure your site runs smoothly and securely.            |  
+
 
 ### Web, Mobile & Software Development 
 
@@ -176,4 +176,24 @@ Stand out with custom themes, unique plugins, and blazing-fast, SEO-optimized si
 
 Sell smarter with WooCommerce store setups and secure, seamless payment integration for a frictionless checkout experience.
 
+### Content Taxonomy
 
+```mermaid
+---
+config:
+  layout: tidy-tree
+  themeVariables:
+    fontFamily: 'Poppins, sans-serif'
+---
+mindmap
+  root((Content Taxonomy))
+    Services((Services))
+      Custom_Development{{Custom Development}}
+        Web_App_Development(Web App Development)
+        Mobile_App_Development(Mobile App Development)
+        AI_Integration(AI Integration)
+      WordPress_Development{{WordPress Development}}
+        Website_Development(Website Development)
+        E-commerce_Development(E-commerce Development)
+        Website_Support_&_Maintenance(Website Support & Maintenance)
+```
