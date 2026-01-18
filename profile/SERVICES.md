@@ -20,7 +20,7 @@ upwork:
     - Web, Mobile & Software Development
     - IT & Networking
   subcategories:
-    Web, Mobile & Software Development
+    - Web, Mobile & Software Development
       - Blockchain, NFT & Cryptocurrency
       - Al Apps & Integration
       - Desktop Application Development
@@ -33,12 +33,6 @@ upwork:
       - Scripts & Utilities
       - Web & Mobile Design
       - Web Development
-    IT & Networking
-      - Database Management & Administration
-      - ERP and CRM Software
-      - Information & Security Compliance
-      - Network & System Administration
-      - DevOps & Solution Architecture
 ---
 
 ## Services
