@@ -6,8 +6,16 @@ Building **Better**, *Faster*, and <ins>Together</ins>.
 
 ```mermaid
 flowchart TD
-    A[Better Solutions] --> B[Faster Delivery]
-    B --> C[Together with You]
+    style A fill:#f9f,stroke:#333,stroke-width:2px,rx:10,ry:10
+    style B fill:#bbf7d0,stroke:#333,stroke-width:2px,rx:10,ry:10
+    style C fill:#fef08a,stroke:#333,stroke-width:2px,rx:10,ry:10
+
+    A(["💡<br/>Better Solutions"])
+    B(["⚡<br/>Faster Delivery"])
+    C(["🤝<br/>Together with You"])
+
+    A --> B
+    B --> C
 ```
 
 ### 🎯 Mission
