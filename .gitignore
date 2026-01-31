@@ -1,4 +1,13 @@
-marketing
-initiatives
-sales
-operations
+marketing/*
+initiatives/*
+sales/*
+operations/*
+
+!operations/README.md
+!operations/*.pub.md
+!marketing/README.md
+!marketing/*.pub.md
+!sales/README.md
+!sales/*.pub.md
+!initiatives/README.md
+!initiatives/*.pub.md

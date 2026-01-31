@@ -34,10 +34,10 @@ When generating content, consider our three main service areas:
 - 🛠️ Website Support & Maintenance
 
 ## Annual Themes
-- 2023: Momentum 
-- 2024: Presence
-- 2025: Elevate
 - 2026: Assemble
+- 2025: Elevate
+- 2024: Presence
+- 2023: Momentum 
 
 ## Content Guidelines
 
