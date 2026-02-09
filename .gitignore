@@ -11,3 +11,4 @@ operations/*
 !sales/*.pub.md
 !initiatives/README.md
 !initiatives/*.pub.md
+.DS_Store

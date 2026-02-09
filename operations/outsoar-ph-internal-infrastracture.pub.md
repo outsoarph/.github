@@ -11,7 +11,7 @@ Applications should be loosely coupled via Redis event bus for inter-service com
 ## Infrastructure Components
 
 Server: AWS EC2 t3.medium
-Database: MariaDB
+Database: MariaDB & Sqlite
 Storage: AWS S3 for backups and static assets
 Cache: Redis for events, sessions, and queues
 CI/CD: GitHub Actions for automated deployments
@@ -26,4 +26,3 @@ OS: Aws Linux 2 2023 | Arm64
 2. CooperBot
 3. Klauber - HRIS ( Payroll, Attendance, Employee Management )
 4. Truesight - Accounting System
-
